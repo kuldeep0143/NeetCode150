@@ -26,7 +26,6 @@ class Solution {
 }
 
 3.  HashSet TC => O(n) && SC => O(n)
-
 public class Solution {
     public boolean hasDuplicate(int[] nums) {
         Set<Integer> seen = new HashSet<>();
