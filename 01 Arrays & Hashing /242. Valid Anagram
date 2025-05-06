@@ -12,6 +12,7 @@ public class Solution {
         Arrays.sort(tSort);
         return Arrays.equals(sSort, tSort);
     }
+
 }
 
 2. HashMap   TC=> O(n+m) && SC => O(1)  since we have at most 26 different characters.
